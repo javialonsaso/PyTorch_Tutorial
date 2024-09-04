@@ -1,0 +1,11 @@
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Input model data
+**/data
+
+# Saved model
+**/*.pth
+
+# Virtual python environment
+/venv
