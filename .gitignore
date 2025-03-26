@@ -3,9 +3,11 @@
 
 # Input model data
 **/data
+**/*.zip
 
 # Saved model
 **/*.pth
+**/*.bin
 
 # Virtual python environment
 /venv
